@@ -1,0 +1,13 @@
+h1 {
+  font-size: 3rem;
+  text-align: center;
+}
+
+.cat {
+  background-image: url(../images/email-pattern.png);
+  padding: 200px;
+  background-position: center;
+  /* background-size: contain; */
+  /* background-size: cover;  */
+  background-repeat: repeat-x;
+}
