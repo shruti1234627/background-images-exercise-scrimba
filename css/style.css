@@ -6,4 +6,8 @@ h1 {
 .cat {
   background-image: url(../images/email-pattern.png);
   padding: 200px;
+  background-position: center;
+  /* background-size: contain; */
+  /* background-size: cover;  */
+  background-repeat: repeat-x;
 }
